@@ -1,4 +1,4 @@
-site_name:  Eclipse Common Build Infrastructure 🚀
+site_name:  Eclipse Common Build Infrastructure
 site_url: https://www.eclipse.org/cbi/
 theme:
   name: material
@@ -77,6 +77,9 @@ plugins:
         - stemmer
         - stopWordFilter
         - trimmer
+
+  - social
+
   - tags
   - multirepo:
       cleanup: true

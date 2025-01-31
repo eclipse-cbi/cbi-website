@@ -6,4 +6,4 @@ mkdocs-macros-plugin>=0.3.0
 mkdocs-rss-plugin>=1.17.0
 mkdocs-breadcrumbs-plugin>=0.1.10
 mkdocs-embed-external-markdown>=3.0.2
-
+mkdocs-material[imaging]
