@@ -1,5 +1,5 @@
 site_name:  Eclipse Common Build Infrastructure
-site_url: https://www.eclipse.org/cbi/
+site_url: https://eclipse.dev/cbi/
 theme:
   name: material
   logo: assets/CBI.png
