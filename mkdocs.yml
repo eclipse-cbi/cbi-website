@@ -68,6 +68,7 @@ plugins:
         as_creation: date
       feed_title: "Eclipse Continuous Blogging Initiative"
       feed_description: "Blog about all the things regarding CBI and Releng at the Eclipse Foundation"
+      abstract_chars_count: -1
 
   - mkdocs-word-filter:
       filter-lines-with:
