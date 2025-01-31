@@ -56,8 +56,10 @@ plugins:
 
   - blog:
       post_url_date_format: yyyy/MM/dd
-      post_url_format: "{date}/{slug}"
+      post_url_format: "{date}/{file}"
+      post_excerpt: optional
       blog_dir: ./blog
+      blog_toc: true
 
   - rss:
       enabled: true
