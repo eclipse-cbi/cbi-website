@@ -45,14 +45,14 @@ copyright: Copyright © Eclipse Foundation, Inc. All Rights Reserved.
 plugins:
   - external-markdown
 
-  - mkdocs-breadcrumbs-plugin:
-      delimiter: " / "
-      log_level: "WARNING" 
-      exclude_paths:
-        - "docs/**"
-      additional_index_folders:
-        - temp_dir
-      generate_home_index: false
+#  - mkdocs-breadcrumbs-plugin:
+#      delimiter: " / "
+#      log_level: "WARNING" 
+#      exclude_paths:
+#        - "docs/**"
+#      additional_index_folders:
+#        - temp_dir
+#      generate_home_index: false
 
   - blog:
       post_url_date_format: yyyy/MM/dd
