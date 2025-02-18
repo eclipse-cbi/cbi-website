@@ -2,6 +2,7 @@ site_name:  Eclipse Common Build Infrastructure
 site_url: https://eclipse.dev/cbi/
 theme:
   name: material
+  custom_dir: docs/overrides
   logo: assets/CBI.png
   language: en 
   features:
@@ -36,11 +37,11 @@ extra_css:
 
 extra:
   generator: false
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/eclipse-cbi
+#   social:
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/eclipse-cbi/cbi-website
 
-copyright: Copyright © Eclipse Foundation, Inc. All Rights Reserved.
+# copyright: Copyright © Eclipse Foundation, Inc. All Rights Reserved.
 
 plugins:
   - external-markdown
