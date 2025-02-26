@@ -1,21 +1,16 @@
 ---
+title: "Welcome to the first post of the CBI blog"
 draft: false
-
 authors:
   - fredg02
-  
 date: 2025-01-31
-
 tags:
   - blog
   - intro
-
 categories:
   - Blog
+comments: true
 ---
-
-# Welcome to the first post of the CBI blog
-
 Here is a short overview of what we are planning to do with this blog and CBI in general in 2025.
 
 ## Continuous Blogging Initiative

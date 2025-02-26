@@ -1,21 +1,16 @@
 ---
+title: "Develocity Evaluation Phase: Presentation with Gradle on Optimizing Pipelines for Eclipse Projects"
 draft: false
-
 authors:
   - heurtematte
-  
 date: 2025-02-12
-
 tags:
   - blog
   - develocity
-
 categories:
   - Blog
+comments: true
 ---
-
-# Develocity Evaluation Phase: Presentation with Gradle on Optimizing Pipelines for Eclipse Projects
-
 The Eclipse releng team is currently evaluating the relevance of the [Develocity platform](https://gradle.com/develocity/) by Gradle Inc in understanding and optimizing their pipelines.
 
 On Thursday, February 6, a dedicated presentation was held in collaboration with Gasper Kojek from Gradle to explore the platform's capabilities and discuss how it could benefit both Eclipse projects and
