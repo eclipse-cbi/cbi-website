@@ -1,6 +1,6 @@
 .md-header {
-    background-color: #b4bcc2; /* Couleur de fond */
-    color: #ffffff; /* Couleur du texte */
+    background-color: #b4bcc2;
+    color: #ffffff; 
 }
 
 .md-header__button.md-logo img, .md-header__button.md-logo svg{
@@ -11,6 +11,7 @@
 }
 
 .md-footer {
-    background-color: #b4bcc2; /* Couleur de fond */
-    color: #ffffff; /* Couleur du texte */
+    background-color: #b4bcc2;
+    color: #ffffff;
 }
+
