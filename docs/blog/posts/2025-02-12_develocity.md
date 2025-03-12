@@ -5,22 +5,24 @@ authors:
   - heurtematte
 date: 2025-02-12
 tags:
-  - blog
+  - CBI
   - develocity
 categories:
-  - Blog
+  - develocity
 comments: true
 ---
-The Eclipse releng team is currently evaluating the relevance of the [Develocity platform](https://gradle.com/develocity/) by Gradle Inc in understanding and optimizing their pipelines.
 
-On Thursday, February 6, a dedicated presentation was held in collaboration with Gasper Kojek from Gradle to explore the platform's capabilities and discuss how it could benefit both Eclipse projects and
-the releng team in addressing build challenges.
+The Eclipse releng team is currently evaluating throw the [Develocity staging instance](https://develocity-staging.eclipse.org) the relevance of the [Develocity platform](https://gradle.com/develocity/) by **Gradle Inc** in understanding and optimizing their pipelines.
+
+On Thursday, February 6, a dedicated presentation was held in collaboration with **Gasper Kojek** from **Gradle** to explore the platform's capabilities and discuss how it could benefit both Eclipse projects and the releng team in addressing build challenges.
 
 The session focused on the challenges, the evaluation phase, Develocity’s features and how it could enhance build performance, visibility, and reliability across Eclipse projects.
 
-🎥 [Watch the Presentation Here](https://youtu.be/YWIbzmNFJVM)
+🎥 [Watch the Presentation](https://youtu.be/YWIbzmNFJVM)
 
-Below is a summary from the session:
+[![Watch the Presentation](https://img.youtube.com/vi/YWIbzmNFJVM/0.jpg)](https://youtu.be/YWIbzmNFJVM)
+
+Please find below a summary from this session.
 
 ## 1. Challenges in CI/CD for Eclipse Projects
 
@@ -82,7 +84,7 @@ Develocity is a data platform & acceleration engine designed to improve develope
 
 ## How to Join the Develocity Evaluation Phase?
 
-* Create a [HelpDesk ticket](https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/new) to onboard your project.
+Create a [HelpDesk ticket](https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/new) to onboard your project.
 
 ## Additional Resources:
 

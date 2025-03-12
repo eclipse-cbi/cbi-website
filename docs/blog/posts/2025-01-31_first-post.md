@@ -5,10 +5,10 @@ authors:
   - fredg02
 date: 2025-01-31
 tags:
-  - blog
+  - CBI
   - intro
 categories:
-  - Blog
+  - CBI
 comments: true
 ---
 Here is a short overview of what we are planning to do with this blog and CBI in general in 2025.
