@@ -35,6 +35,10 @@ markdown_extensions:
 extra_css:
   - assets/extra.css
 
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - scripts/tablesort.js
+
 extra:
   generator: false
 #   social:
