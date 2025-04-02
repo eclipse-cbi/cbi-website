@@ -13,6 +13,21 @@
     </style>
 {% endblock %}
 
+{% block content %}
+ {% if page and page.edit_url %}
+ {% if "gitlab" in page.edit_url %}
+    <a href="{{ page.edit_url.replace('.git', '') | replace('/main/', '/-/blob/main/') }}" style='position:relative;float:right;'>
+  {% else %}
+    <a href="{{ page.edit_url.replace('.git', '') }}" style='position:relative;float:right;'>
+  {% endif %}
+
+    <i class="fa-solid fa-pen-to-square"></i>
+  </a> 
+{% endif %}
+
+{{ super() }}
+{% endblock %}
+
 
 {% block footer %}
     {{ super() }}
