@@ -169,6 +169,7 @@ nav:
     - FAQ: cbi/FAQ.md
     - Nexus: cbi/Nexus.md
     - Signing: cbi/Signing.md
+    - GitHub/GitLab Decision Matrix: cbi/DecisionMatrixGitHubGitLab.md
     - Wiki 🔗: https://github.com/eclipse-cbi/cbi/wiki
   - Jenkins Service (JIRO):
     - Documentation:
