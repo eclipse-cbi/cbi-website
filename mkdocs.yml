@@ -181,6 +181,7 @@ nav:
       - FAQ: jiro/FAQ.md
       - GitHub integration: jiro/GitHub-integration.md
       - GitLab integration: jiro/GitLab-integration.md
+      - Nexus \ OSSRH \ Maven Central: jiro/Nexus-OSSRH-Maven-Central.md
       - Resource packs and quotas: jiro/Resource-packs-and-quotas.md
       - Tools-(JDK,-Maven,-Ant): jiro/Tools.md
     - JIRO: jiro-core/index.html
