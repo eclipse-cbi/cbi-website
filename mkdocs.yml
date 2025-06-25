@@ -224,6 +224,7 @@ nav:
     - Access Develocity-staging 🔗: https://develocity-staging.eclipse.org
   - Github Actions: 
     - Central Portal (Maven central): best-practices/github-actions/central-portal/index.html
+    - Project Website: best-practices/github-actions/project-website/index.html
   - Github Self-Service (Otterdog): 
     - Documentation 🔗: https://otterdog.readthedocs.io/en/latest/
     - Otterdog Dashboard 🔗: 'https://otterdog.eclipse.org'
