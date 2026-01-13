@@ -239,9 +239,11 @@ nav:
     - Macosx webservice: signing-services/webservice/signing/macosx/index.html
   - MacOS Notarization Service: 
     - Documentation: macos-notarization-service/index.html
-    - Project 🔗: https://github.com/eclipse-cbi/macos-notarization-service.git      
+    - Project 🔗: https://github.com/eclipse-cbi/macos-notarization-service.git
   - Best Practices: 
-    - Common Best Practices: best-practices/index.html
+    - GitHub actions - Central Portal: best-practices/github-actions/central-portal/index.html
+    - GitHub actions - Project websites: best-practices/github-actions/project-website/index.html
+    - GitHub actions - downloads.eclipse.org: best-practices/github-actions/upload-to-downloads.eclipse.org/index.html
     - Software Supply Chain: best-practices/software-supply-chain/osssc-best-practices/index.html
   - Project Website Boilerplate: 
     - Documentation: project-website-boilerplate/index.html
