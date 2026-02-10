@@ -199,11 +199,7 @@ nav:
   - Container management:
     - DockerFile Documentation: cbi-dockerfile/index.html
     - Source code 🔗: https://github.com/eclipse-cbi/dockerfiles
-  - GitHub Actions:
-    - Central Portal (Maven Central): best-practices/github-actions/central-portal.md
-    - Project Websites: best-practices/github-actions/project-website.md
-    - downloads.eclipse.org: best-practices/github-actions/upload-to-downloads.eclipse.org.md
-  - GitLab Runner Service (GRAC!):
+  - GitLab Service:
     - Documentation: gitlab-runner-service/index.html
     - GitLab CI Template: gitlab-runner-template/index.html
     - Grac!: gitlab-runner-as-code/index.html
@@ -218,6 +214,10 @@ nav:
       - Otterdog 🔗: https://github.com/eclipse-csi/otterdog
       - Eclipse Foundation Otterdog Configurations 🔗: https://github.com/EclipseFdn/otterdog-configs
       - Eclipse Foundation Otterdog Defaults 🔗: https://github.com/EclipseFdn/otterdog-defaults
+  - GitHub Actions:
+    - Central Portal (Maven Central): best-practices/github-actions/central-portal.md
+    - Project Websites: best-practices/github-actions/project-website.md
+    - downloads.eclipse.org: best-practices/github-actions/upload-to-downloads.eclipse.org.md
   - Chat Service:
     - Let's chat 🔗: https://chat.eclipse.org
     - Documentation 🔗: https://chat.eclipse.org/docs/
