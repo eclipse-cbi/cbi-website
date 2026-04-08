@@ -47,7 +47,7 @@ Each criterion is assessed side-by-side for both platforms, highlighting key dif
 | Registry | [GitHub Package Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry) | [GitLab Registry is deactivated.](https://docs.gitlab.com/user/packages/) <br/> Nexus via [repo.eclipse.org](https://repo.eclipse.org) is proposed |
 | Build Container support | Container client: kaniko, buildah, podman, ... | [EF Buildkit infrastructure](https://eclipse-cbi.github.io/cbi-website/gitlab-runner-service/index.html#build-container-image-buildkit) |
 | Running services | [Service containers](https://docs.github.com/en/actions/use-cases-and-examples/using-containerized-services/about-service-containers) | [GitLab CI Services Resource pack quotas applied to services](https://docs.gitlab.com/ci/services/) |
-| Runner statistics | None. [Develocity](https://develocity.eclipse.org) can be used | Grafana dashboard (only internally for now, will be made public later). [Develocity](https://develocity.eclipse.org) can be used in addition |
+| Runner statistics | None. | Grafana dashboard (only internally for now, will be made public later). |
 | Secrets management | Otterdog applies internal secrets to GitHub org/projects secrets.  PL can request creation of specific secrets via ticket | Integrated with internal tooling, PL can add manually their secrets via UI |
 | **Code Security/Compliance** {:colspan=3} |
 | Security tooling | [Code scanning, secrets scanning, Dependabot](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning) | [Security tooling integrated via CI, with reports generation](https://docs.gitlab.com/user/application_security/detect/) |

@@ -143,10 +143,6 @@ plugins:
           import_url: 'https://gitlab.eclipse.org/eclipsefdn/it/releng/chat-service/chat-service-sync.git?branch=main&edit_uri=main'
           imports: ['*.md']
 
-        - name: Develocity
-          import_url: 'https://gitlab.eclipse.org/eclipsefdn/it/releng/develocity/develocity-documentation?branch=main&edit_uri=main'
-          imports: ['*.md']
-
         - name: Signing Services
           import_url: 'https://github.com/eclipse-cbi/org.eclipse.cbi.git?branch=main'
           imports: ['*.md']
@@ -230,9 +226,6 @@ nav:
       - Synapse: chat-service-synapse/readme/index.html
       - Elementweb: chat-service-elementweb/readme/index.html
       - Sync Tools: chat-service-sync-tools/readme/index.html
-  - Develocity:
-    - Documentation: develocity/readme/index.html
-    - Access Develocity-staging 🔗: https://develocity-staging.eclipse.org
   - Signing/Notarization Service:
     - CBI Maven plugins: signing-services/index.html
     - CLI: signing-services/cli-tools/signing/jar/index.html
@@ -261,7 +254,6 @@ nav:
   - Service links:
     - ci.eclipse.org 🔗: 'https://ci.eclipse.org/'
     - eclipse status 🔗: 'https://www.eclipsestatus.io/'
-    - develocity-staging 🔗: 'https://develocity-staging.eclipse.org'
     - chat.eclipse.org 🔗: 'https://chat.eclipse.org'
     - IT chat room 🔗: 'https://chat.eclipse.org/#/room/#eclipsefdn.it:matrix.eclipse.org'
     - Helpdesk 🔗: 'https://gitlab.eclipse.org/eclipsefdn/helpdesk'
