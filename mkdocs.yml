@@ -213,6 +213,7 @@ nav:
     - Central Portal (Maven Central): best-practices/github-actions/central-portal.md
     - Project Websites: best-practices/github-actions/project-website.md
     - downloads.eclipse.org: best-practices/github-actions/upload-to-downloads.eclipse.org.md
+    - repo.eclipse.org: best-practices/github-actions/repo.eclipse.org.md
   - Chat Service:
     - Let's chat 🔗: https://chat.eclipse.org
     - Documentation 🔗: https://chat.eclipse.org/docs/
